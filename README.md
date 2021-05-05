@@ -1,4 +1,4 @@
-# pruebas
+# Pruebas
 
 ¡Hola git!
 
@@ -14,3 +14,5 @@ Más cambios a destiempo!
 Y encima en la misma linea!
 
 Un cambio remoto
+
+Cambiando cosas aleatoriamente
