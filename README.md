@@ -2,6 +2,8 @@
 
 ¡Hola git!
 
+:bug:
+
 ## Un cambio local
 :octocat: :+1:
 
