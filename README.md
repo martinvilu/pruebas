@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ <--- Mirar...
 
 Esto es una prueba de PUSH
 
-Modificacion 2
+Modificacion 2Reconociendo
 
 ¿¡Cambios a destiempo!?
 
@@ -22,6 +22,9 @@ Más cambios a destiempo!
 Y encima en la misma linea!
 
 Un cambio remoto
+
+
+Al fin lo logre
 
 
 Probando el pull requests!!
@@ -70,4 +73,5 @@ IPOD
 ║ (●) ♫
 ╚═══╝♪♪
 `
+
 
