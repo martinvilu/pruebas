@@ -1,6 +1,6 @@
 # Pruebas
 
-¡Hola git!
+¡Hola Git!
 
 :bug:
 
