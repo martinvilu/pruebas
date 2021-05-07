@@ -49,12 +49,16 @@ esto es un cambio rapido!!
 ....... -'((__)
 --.___((_) 
 
+
+Probando gitkraken en Ubuntu
+
 Sacando mi nombre (Tomas)
 
 .-.-.-.-.
 
 
 probando a ver si por fin de una vez esto me funciona
+
 
 
 
