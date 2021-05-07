@@ -49,12 +49,20 @@ esto es un cambio rapido!!
 ....... -'((__)
 --.___((_) 
 
+
+esto es un cambio rapido!!
+
+
+
+Probando gitkraken en Ubuntu
+
 Sacando mi nombre (Tomas)
 
 .-.-.-.-.
 
 
 probando a ver si por fin de una vez esto me funciona
+
 
 
 
@@ -81,6 +89,16 @@ IPOD
 ║ (●) ♫
 ╚═══╝♪♪
 
+## Probando ando
+
+*hola*
+*-probando-*
+    
+[x] probando
+[] probando
+:suspect: :suspect: :suspect: :suspect: 
+:+1:
+_hola?_
 
 
 
@@ -116,6 +134,8 @@ AGREGUÉ ESTE TEXTO PARA HACER PUSH DESDE TERMINAL.
 
 Este es un nuevo texto.
 
+esto es un cambio rapido!
+
 ...................._______.....
 ...................(...hello!....)..
 ....................`--, ,-----´...
@@ -138,4 +158,3 @@ Este es un nuevo texto.
 ....@........@...................
 ...@..........@.................
 @@..........@@...............
-
