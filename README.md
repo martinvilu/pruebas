@@ -50,6 +50,9 @@ esto es un cambio rapido!!
 --.___((_) 
 
 
+esto es un cambio rapido!!
+
+
 
 Probando gitkraken en Ubuntu
 
