@@ -50,6 +50,7 @@ esto es un cambio rapido!!
 --.___((_) 
 
 
+
 Probando gitkraken en Ubuntu
 
 Sacando mi nombre (Tomas)
@@ -119,4 +120,7 @@ AGREGUÉ ESTE TEXTO PARA HACER PUSH DESDE TERMINAL.
 
 
 Este es un nuevo texto.
+
+
+esto es un cambio rapido!
 
