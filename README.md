@@ -6,7 +6,7 @@
 :octocat: :+1:
 
 
-¿¡Cambios a destiempo!?
+¿¡Cambios              a              destiempo!?
 
 Más cambios a destiempo!
 
