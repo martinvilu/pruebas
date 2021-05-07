@@ -1,19 +1,23 @@
-# Pruebas
+﻿# Pruebas
 
 ¡Hola Git!
-
-:bug:
 
 ## Un cambio local
 :octocat: :+1:
 
+
+¿¡Cambios              a              destiempo!?
+
+
 https://www.youtube.com/watch?v=dQw4w9WgXcQ <--- Mirar...
+
 
 Esto es una prueba de PUSH
 
 Modificacion 2Reconociendo
 
 ¿¡Cambios a destiempo!?
+
 
 Un cambio para poder subir el fork
 
@@ -22,6 +26,7 @@ Más cambios a destiempo!
 Y encima en la misma linea!
 
 Un cambio remoto
+
 
 
 
@@ -49,6 +54,8 @@ esto es un cambio rapido!!
 ....... -'((__)
 --.___((_) 
 
+
+esto fue edid
 
 esto es un cambio rapido!!
 
@@ -182,3 +189,4 @@ esto es un cambio rapido!
                    ▒▒▒▒▒▒▒▒▒▒▀▀
                    
                    
+
