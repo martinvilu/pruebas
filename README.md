@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-# pruebas
-=======
-# Pruebas
+# Ahora esto deja de ser solo pruebas
+
+Ahora es el momento en el que ustedes reciben y procesan un pull request mio!
+
+Asegurensé de que no queden las 'marcas' de conflictos; los signos mayor/menor e igual.
 
 ¡Hola Git!
 
@@ -10,55 +11,30 @@
 ## Un cambio local
 :octocat: :+1:
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ <--- Mirar...
-
-
+(Mirar)[https://www.youtube.com/watch?v=dQw4w9WgXcQ]
 
 Esto es una prueba de PUSH 
-=======
-Esto es una prueba de PUSH
-
-
 Modificacion 2Reconociendo
-
 ¿¡Cambios a destiempo!?
-
-
-
-Un cambio para poder subir el fork                                                                                           
-
-=======
+Un cambio para poder subir el fork 
 Un cambio para poder subir el fork
-
-
 Más cambios a destiempo!
-
 Y encima en la misma linea!
-
 Un cambio remoto.
- 
 Linea 15 libre??? no creo..
-
 Un cambio remoto
-
-
-
 Esto es una prueba
-
 Al fin lo logre
-
-
 Probando el pull requests!!
-
 Cambiando cosas aleatoriamente
-
-
 :station: :minibus: :minibus: :minibus:  se ven o no?
 
 ## May the 4th be with you
 
 esto es un cambio rapido!!
-`
+
+## Thumbsup :+1:
+
 ...../ )
 .....' /
 ---' (_____
@@ -70,20 +46,16 @@ esto es un cambio rapido!!
 
 
 esto fue edid
-
-esto es un cambio rapido!!                                                                               
-=======
 esto es un cambio rapido!!
-
-
-
-
+esto es un cambio rapido!!
 Probando gitkraken en Ubuntu
-
 Sacando mi nombre (Tomas)
 
+
+## Dragón
+
 .-.-.-.-.
->>>>>>> c25cd2cdbf9fcaf9a0e3c30c5c45070e0cdec7ef
+
                                                           ___
                                                        .~))>>
                                                       .~)>>
@@ -125,8 +97,8 @@ probando a ver si por fin de una vez esto me funciona
 
 
 
-Casita :D
-`
+## Casita :-D
+
                 )( 
                     )(
                   )(
@@ -140,9 +112,9 @@ Casita :D
    | |__|    |   |    |                    |
 ___|         |   |    |___________________/ \_________________
 
-`
-IPOD
-`
+
+## IPOD
+
 ╔═══╗ ♪
 ║███║ ♫
 ║ (●) ♫
@@ -160,9 +132,8 @@ IPOD
 _hola?_
 
 
+## Pikachuu 1,2,3
 
-## Probando 1,2,3
-`
 ⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣠⣤⣶⣶
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣾⣿⣿⣿⣿
@@ -177,23 +148,19 @@ _hola?_
 ⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
-`
-# MARCIO BETANZO
+
+
 ## PULL REQUEST ELIMINADO
+
 
 ### Este es un texto de prueba
 
-
-##TEXTEXTXDXD
-
 AGREGUÉ ESTE TEXTO PARA HACER UN PULL DESDE TERMINAL.
-
 AGREGUÉ ESTE TEXTO PARA HACER PUSH DESDE TERMINAL.
-
-
 Este es un nuevo texto.
 
-`
+## Linux Rulez
+
          _nnnn_                      
         dGGGGMMb     ,"""""""""""""".
        @p~qp~~qMb    | Linux Rules! |
@@ -209,10 +176,12 @@ Este es un nuevo texto.
  |    `.       | `' \Zq
 _)      \.___.,|     .'
 \____   )MMMMMM|   .'
-     `-'       `--' hjm
-`
+    `-'       `--' hjm
+
 esto es un cambio rapido!
 
+
+## Hola mundo
 ...................._______.....
 ...................(...hello!....)..
 ....................`--, ,-----´...
@@ -236,7 +205,7 @@ esto es un cambio rapido!
 ...@..........@.................
 @@..........@@...............
 
-             Doge by Jean
+## Doge by Jean
 
                    ▄              ▄
                   ▌▒█           ▄▀▒▌
@@ -257,7 +226,10 @@ esto es un cambio rapido!
               ▀▄▒▒▒▒▒▒▒▒▒▒▄▄▄▀▒▒▒▒▄▀
                 ▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀
                    ▒▒▒▒▒▒▒▒▒▒▀▀
-                   
+
+ 
+ ## Master Chief
+
 ░░░░░░░░░░░▓▓▓███████████████████████▓▓▓
 ░░░░░░░░░▓▓▓░█░░░░░░░░▓░░░░░▓░░░░░░░░█░▓▓▓
 ░░░░░░░▓▓▓░██░░░░░░░░▓░░░░░░░▓░░░░░░░░██░▓▓▓
@@ -280,7 +252,7 @@ esto es un cambio rapido!
 ░░░░░░░░░░░░░░░░██████▓▓▓▓▓▓▓██████
 
 
-
+## Maycol Iacson
 
 ___________§§§$$§§$§§_
 _________$$$$$§§§$$§§$§_
